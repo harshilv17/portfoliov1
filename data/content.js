@@ -87,7 +87,7 @@ export const projects = [
 
 export const testimonials = [
   {
-    name: "ANURAG",
+    name: "A",
     role: "Project Manager",
     initials: "AN",
     text: "Working with Harshil has been exceptional. His technical expertise and attention to detail consistently exceeded our expectations. Highly recommended!",
@@ -95,7 +95,7 @@ export const testimonials = [
     country: "USA",
   },
   {
-    name: "AARUSH",
+    name: "B",
     role: "CEO",
     initials: "AA",
     text: "Harshil delivered outstanding work on our web platform. His reliability and problem-solving skills made him an invaluable partner for our startup.",
@@ -103,7 +103,7 @@ export const testimonials = [
     country: "INDIA",
   },
   {
-    name: "DIVY",
+    name: "C",
     role: "CTO",
     initials: "DI",
     text: "Outstanding developer! Harshil's responsiveness and technical knowledge impressed our entire team. He delivered beyond expectations.",
@@ -111,7 +111,7 @@ export const testimonials = [
     country: "UK",
   },
   {
-    name: "PARAM",
+    name: "D",
     role: "Creative Director",
     initials: "PA",
     text: "Harshil did a terrific job on our platform. Great communication, timeliness, and quality. We look forward to working with him again.",
@@ -119,7 +119,7 @@ export const testimonials = [
     country: "INDIA",
   },
   {
-    name: "ADIT",
+    name: "E",
     role: "Tech Lead",
     initials: "AD",
     text: "Exceptional collaboration and delivery. Harshil brings both technical skills and creative problem-solving to every project.",
@@ -127,7 +127,7 @@ export const testimonials = [
     country: "USA",
   },
   {
-    name: "PRIYAL",
+    name: "F",
     role: "Product Manager",
     initials: "PR",
     text: "Harshil's dedication to quality and his proactive communication made our project a success. Highly recommend working with him.",
